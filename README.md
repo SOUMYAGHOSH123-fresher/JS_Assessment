@@ -1,1 +1,1 @@
-learbing purpose
+learning purpose
