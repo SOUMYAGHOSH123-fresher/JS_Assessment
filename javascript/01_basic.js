@@ -48,3 +48,4 @@ console.log("2" == 2)   //Its check only adress value  */
 
 console.log(null > 0)
 
+console.log("null")
