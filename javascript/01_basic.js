@@ -2,14 +2,14 @@
 // console.log("hello")
 
 //use datatypes
-const accountId = 423263666666
+const accountId = 4232636
 var accountEmail = "soumya@gmail.com" //Donot use 'var' keyword in anywhere
 let accountPassword = "1235387"
 let accoutCity = "mayurbhanj"
 /*console.table([accountEmail,accountId,accountPassword,accoutCity])*/
 
 //use datatypes
-let integerValue = 229
+let integerValue = 2
 let stringValue = "soumya"
 let booleanValue = true
 let symbolvalue = "@"
