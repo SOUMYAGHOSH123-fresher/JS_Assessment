@@ -28,7 +28,7 @@ console.table([valueNumber])*/
 
 //---------OPERATION------------
 let str1 = 1
-let str2 = "5"
+let str2 = "5" + 2
 let str3 = 2 + 3 + true
 /*console.log(str3)
 console.log(+true)
@@ -52,3 +52,4 @@ console.log("null")
 
 console.log("changes done")
 
+console.log("branch chages"); 
